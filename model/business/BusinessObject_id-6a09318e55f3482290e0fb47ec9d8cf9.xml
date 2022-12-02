@@ -1,4 +1,21 @@
 <archimate:BusinessObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Bedrijfsobject"
-    id="id-6a09318e55f3482290e0fb47ec9d8cf9"/>
+    id="id-6a09318e55f3482290e0fb47ec9d8cf9"
+    documentation="Eigenschappen gestructureerd als tags.">
+  <properties
+      key="omschrijving"
+      value="Een bedrijfsobject is gedefinieerd als  een gegevensgerelateerd architectuurelement dat vanuit bedrijfsperspectief relevant is. Het vertegenwoordigt gegevens welke door bedrijfsprocessen en/of -functies gebruikt of gecreëerd wordt"/>
+  <properties
+      key="extern_titel"
+      value="Archimate"/>
+  <properties
+      key="kernobject"
+      value="Middel"/>
+  <properties
+      key="avg-categorie"
+      value="Niet-persoonsgegeven"/>
+  <properties
+      key="grondslag"
+      value="Onbepaald"/>
+</archimate:BusinessObject>
